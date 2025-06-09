@@ -1,0 +1,17 @@
+{
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "description": "シンプルなポモドーロタイマー",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiroo0511/pomodoro-timer.git"
+  },
+  "keywords": ["pomodoro", "timer", "productivity"],
+  "author": "Hiroo0511",
+  "license": "MIT",
+  "homepage": "https://hiroo0511.github.io/pomodoro-timer"
+}
